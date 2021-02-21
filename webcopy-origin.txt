@@ -1,0 +1,544 @@
+Uri: http://vicsanenergy.com/
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\index.htm
+Content Type: text/html
+
+Uri: http://vicsanenergy.com/css/bootstrap.css
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\css\bootstrap.css
+Content Type: text/css
+
+Uri: http://vicsanenergy.com/css/fullwidth.css
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\css\fullwidth.css
+Content Type: text/css
+
+Uri: http://vicsanenergy.com/css/settings.css
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\css\settings.css
+Content Type: text/css
+
+Uri: http://vicsanenergy.com/css/magnific-popup.css
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\css\magnific-popup.css
+Content Type: text/css
+
+Uri: http://vicsanenergy.com/css/animate.css
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\css\animate.css
+Content Type: text/css
+
+Uri: http://vicsanenergy.com/css/font-awesome.css
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\css\font-awesome.css
+Content Type: text/css
+
+Uri: http://vicsanenergy.com/css/jquery.bxslider.css
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\css\jquery.bxslider.css
+Content Type: text/css
+
+Uri: http://vicsanenergy.com/css/style.css
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\css\style.css
+Content Type: text/css
+
+Uri: http://vicsanenergy.com/css/responsive.css
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\css\responsive.css
+Content Type: text/css
+
+Uri: https://vicsan-energy.mercadoshops.com.ar/
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\index-1.htm
+Content Type: text/html
+
+Uri: http://vicsanenergy.com/js/jquery.min.js
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: http://vicsanenergy.com/js/jquery.migrate.js
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\js\jquery.migrate.js
+Content Type: application/javascript
+
+Uri: http://vicsanenergy.com/js/jquery.appear.js
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\js\jquery.appear.js
+Content Type: application/javascript
+
+Uri: http://vicsanenergy.com/js/jquery.quovolver.js
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\js\jquery.quovolver.js
+Content Type: application/javascript
+
+Uri: http://vicsanenergy.com/js/jquery.stellar.min.js
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\js\jquery.stellar.min.js
+Content Type: application/javascript
+
+Uri: http://vicsanenergy.com/js/jquery.bxslider.min.js
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\js\jquery.bxslider.min.js
+Content Type: application/javascript
+
+Uri: http://vicsanenergy.com/js/jquery.countTo.js
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\js\jquery.countTo.js
+Content Type: application/javascript
+
+Uri: http://vicsanenergy.com/js/jquery.magnific-popup.min.js
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\js\jquery.magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: http://vicsanenergy.com/js/bootstrap.js
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\js\bootstrap.js
+Content Type: application/javascript
+
+Uri: http://vicsanenergy.com/js/jquery.imagesloaded.min.js
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\js\jquery.imagesloaded.min.js
+Content Type: application/javascript
+
+Uri: http://vicsanenergy.com/js/jquery.isotope.min.js
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\js\jquery.isotope.min.js
+Content Type: application/javascript
+
+Uri: http://vicsanenergy.com/js/jquery.themepunch.revolution.min.js
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\js\jquery.themepunch.revolution.min.js
+Content Type: application/javascript
+
+Uri: http://maps.google.com/maps/api/js?sensor=false
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\maps\api\js
+Content Type: text/javascript
+
+Uri: http://vicsanenergy.com/js/gmap3.min.js
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\js\gmap3.min.js
+Content Type: application/javascript
+
+Uri: http://vicsanenergy.com/js/waypoints.js
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\js\waypoints.js
+Content Type: application/javascript
+
+Uri: http://vicsanenergy.com/js/smooth-scroll.js
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\js\smooth-scroll.js
+Content Type: application/javascript
+
+Uri: http://vicsanenergy.com/js/plugins-scroll.js
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\js\plugins-scroll.js
+Content Type: application/javascript
+
+Uri: http://vicsanenergy.com/js/script.js
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\js\script.js
+Content Type: application/javascript
+
+Uri: http://vicsanenergy.com/images/logo.png
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\images\logo.png
+Content Type: image/png
+
+Uri: http://vicsanenergy.com/upload/SLIDES/banner-vicsan.gif
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\upload\SLIDES\banner-vicsan.gif
+Content Type: image/gif
+
+Uri: http://vicsanenergy.com/images/Logo-Hoja.jpg
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\images\Logo-Hoja.jpg
+Content Type: image/jpeg
+
+Uri: http://vicsanenergy.com/upload/5.jpg
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\upload\5.jpg
+Content Type: image/jpeg
+
+Uri: http://vicsanenergy.com/upload/4.jpg
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\upload\4.jpg
+Content Type: image/jpeg
+
+Uri: http://vicsanenergy.com/images/vicsan fotos web/compresores/32974.jpeg
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\images\vicsan fotos web\compresores\32974.jpeg
+Content Type: image/jpeg
+
+Uri: http://vicsanenergy.com/images/vicsan fotos web/compresores/air-compressor-screw-stationary-refrigerant-dryer-4742-4642613.jpg
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\images\vicsan fotos web\compresores\air-compressor-screw-stationary-refrigerant-dryer-4742-4642613.jpg
+Content Type: image/jpeg
+
+Uri: http://vicsanenergy.com/images/vicsan fotos web/compresores/compresor-aire-tornillo-estacionario-compacto-5769-5836735.jpg
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\images\vicsan fotos web\compresores\compresor-aire-tornillo-estacionario-compacto-5769-5836735.jpg
+Content Type: image/jpeg
+
+Uri: http://vicsanenergy.com/images/vicsan fotos web/compresores/compresor-tornillo-inyeccion-aceite-estacionario-22317-2976215.jpg
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\images\vicsan fotos web\compresores\compresor-tornillo-inyeccion-aceite-estacionario-22317-2976215.jpg
+Content Type: image/jpeg
+
+Uri: http://vicsanenergy.com/images/vicsan fotos web/grupo electrogenos/alquiler-grupo-electrogeno-generadores-usina-40-120-kva-660221-MLA20718572717_052016-F.jpg
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\images\vicsan fotos web\grupo electrogenos\alquiler-grupo-electrogeno-generadores-usina-40-120-kva-660221-MLA20718572717_052016-F.jpg
+Content Type: image/jpeg
+
+Uri: http://vicsanenergy.com/images/vicsan fotos web/grupo electrogenos/C669069.jpg
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\images\vicsan fotos web\grupo electrogenos\C669069.jpg
+Content Type: image/jpeg
+
+Uri: http://vicsanenergy.com/images/vicsan fotos web/grupo electrogenos/generador-de-energia-usado-cummins-A106CT-625x370.png
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\images\vicsan fotos web\grupo electrogenos\generador-de-energia-usado-cummins-A106CT-625x370.png
+Content Type: image/png
+
+Uri: http://vicsanenergy.com/images/vicsan fotos web/grupo electrogenos/grupos-electrogenos-ams-750x410.jpg
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\images\vicsan fotos web\grupo electrogenos\grupos-electrogenos-ams-750x410.jpg
+Content Type: image/jpeg
+
+Uri: http://vicsanenergy.com/images/vicsan fotos web/servicios/20143251153250212.jpg
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\images\vicsan fotos web\servicios\20143251153250212.jpg
+Content Type: image/jpeg
+
+Uri: http://vicsanenergy.com/images/vicsan fotos web/servicios/compresor-tornillo-lubricado-estacionario-8358-7518167.jpg
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\images\vicsan fotos web\servicios\compresor-tornillo-lubricado-estacionario-8358-7518167.jpg
+Content Type: image/jpeg
+
+Uri: http://vicsanenergy.com/images/vicsan fotos web/servicios/fig6tut201.jpg
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\images\vicsan fotos web\servicios\fig6tut201.jpg
+Content Type: image/jpeg
+
+Uri: http://vicsanenergy.com/images/vicsan fotos web/servicios/Picture 13_5.png
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\images\vicsan fotos web\servicios\Picture 13_5.png
+Content Type: image/png
+
+Uri: http://vicsanenergy.com/images/vicsan fotos web/alquileres/014_avila_stem-alquiler_torres_iluminacion.jpg
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\images\vicsan fotos web\alquileres\014_avila_stem-alquiler_torres_iluminacion.jpg
+Content Type: image/jpeg
+
+Uri: http://vicsanenergy.com/images/vicsan fotos web/alquileres/316.jpg
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\images\vicsan fotos web\alquileres\316.jpg
+Content Type: image/jpeg
+
+Uri: http://vicsanenergy.com/images/vicsan fotos web/alquileres/1467233741042.jpg
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\images\vicsan fotos web\alquileres\1467233741042.jpg
+Content Type: image/jpeg
+
+Uri: http://vicsanenergy.com/images/vicsan fotos web/alquileres/maquina-seca-grande-2.jpg
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\images\vicsan fotos web\alquileres\maquina-seca-grande-2.jpg
+Content Type: image/jpeg
+
+Uri: http://vicsanenergy.com/images/vicsan fotos web/repuestos/ac0033035_192.jpg
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\images\vicsan fotos web\repuestos\ac0033035_192.jpg
+Content Type: image/jpeg
+
+Uri: http://vicsanenergy.com/images/vicsan fotos web/repuestos/filtros varios 4.png
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\images\vicsan fotos web\repuestos\filtros varios 4.png
+Content Type: image/png
+
+Uri: http://vicsanenergy.com/images/vicsan fotos web/repuestos/asdas.jpg
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\images\vicsan fotos web\repuestos\asdas.jpg
+Content Type: image/jpeg
+
+Uri: http://vicsanenergy.com/images/vicsan fotos web/repuestos/Minimumpressureandthermostaticvalvemaintenancekit_zpsbfe549c6 (1).jpg
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\images\vicsan fotos web\repuestos\Minimumpressureandthermostaticvalvemaintenancekit_zpsbfe549c6 (1).jpg
+Content Type: image/jpeg
+
+Uri: http://vicsanenergy.com/images/vicsan fotos web/Nueva carpeta/8845d670-c4e1-427f-921e-783679c17079.jpg
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\images\vicsan fotos web\Nueva carpeta\8845d670-c4e1-427f-921e-783679c17079.jpg
+Content Type: image/jpeg
+
+Uri: http://vicsanenergy.com/images/vicsan fotos web/Nueva carpeta/dc7a26fa-5185-4e72-b7fc-8cd6923efcbd.jpg
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\images\vicsan fotos web\Nueva carpeta\dc7a26fa-5185-4e72-b7fc-8cd6923efcbd.jpg
+Content Type: image/jpeg
+
+Uri: http://vicsanenergy.com/images/vicsan fotos web/Nueva carpeta/e02b7528-ce2b-4a67-96d1-22292c5ae7ac.jpg
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\images\vicsan fotos web\Nueva carpeta\e02b7528-ce2b-4a67-96d1-22292c5ae7ac.jpg
+Content Type: image/jpeg
+
+Uri: http://vicsanenergy.com/images/vicsan fotos web/Nueva carpeta/ed0c9d1b-feee-4f1f-bf28-8acf18b87c5f.jpg
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\images\vicsan fotos web\Nueva carpeta\ed0c9d1b-feee-4f1f-bf28-8acf18b87c5f.jpg
+Content Type: image/jpeg
+
+Uri: http://vicsanenergy.com/images/vicsan fotos web/cursos/cursos-seguridad-industrial.jpg
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\images\vicsan fotos web\cursos\cursos-seguridad-industrial.jpg
+Content Type: image/jpeg
+
+Uri: http://vicsanenergy.com/images/vicsan fotos web/cursos/MantenimientodeMaquinariaPesada-1024x680.jpg
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\images\vicsan fotos web\cursos\MantenimientodeMaquinariaPesada-1024x680.jpg
+Content Type: image/jpeg
+
+Uri: http://vicsanenergy.com/images/vicsan fotos web/cursos/Redes-Y-Buses-Comunicacion-Automatizacion-Industrial.jpg
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\images\vicsan fotos web\cursos\Redes-Y-Buses-Comunicacion-Automatizacion-Industrial.jpg
+Content Type: image/jpeg
+
+Uri: http://vicsanenergy.com/images/vicsan fotos web/cursos/RyDpgmVfhg.jpg
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\images\vicsan fotos web\cursos\RyDpgmVfhg.jpg
+Content Type: image/jpeg
+
+Uri: http://vicsanenergy.com/images/vicsan fotos web/auditoria/Airscan.jpg
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\images\vicsan fotos web\auditoria\Airscan.jpg
+Content Type: image/jpeg
+
+Uri: http://vicsanenergy.com/images/vicsan fotos web/auditoria/Compressed-Air-Flow-Meter_T-CDI-5400-20S.jpg
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\images\vicsan fotos web\auditoria\Compressed-Air-Flow-Meter_T-CDI-5400-20S.jpg
+Content Type: image/jpeg
+
+Uri: http://vicsanenergy.com/images/vicsan fotos web/auditoria/EQUIPO~1.JPG
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\images\vicsan fotos web\auditoria\EQUIPO~1.JPG
+Content Type: image/jpeg
+
+Uri: http://vicsanenergy.com/images/vicsan fotos web/auditoria/Foto_red_aire.jpg
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\images\vicsan fotos web\auditoria\Foto_red_aire.jpg
+Content Type: image/jpeg
+
+Uri: http://vicsanenergy.com/images/client1.png
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\images\client1.png
+Content Type: image/png
+
+Uri: http://vicsanenergy.com/images/client2.png
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\images\client2.png
+Content Type: image/png
+
+Uri: http://vicsanenergy.com/images/client3.png
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\images\client3.png
+Content Type: image/png
+
+Uri: http://vicsanenergy.com/images/client4.png
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\images\client4.png
+Content Type: image/png
+
+Uri: http://vicsanenergy.com/images/client5.png
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\images\client5.png
+Content Type: image/png
+
+Uri: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3290.577424526326!2d-58.57110868433107!3d-34.437487480502895!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bca571241e9205:0xbfa2deea5d4ab6d0!2sBesares+41%2C+B1646ADA+San+Fernando%2C+Buenos+Aires!5e0!3m2!1ses-419!2sar!4v1488556964914
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\maps\embed.html
+Content Type: text/html
+
+Uri: http://vicsanenergy.com/images/preloader.gif
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\images\preloader.gif
+Content Type: image/gif
+
+Uri: http://vicsanenergy.com/fonts/glyphicons-halflings-regular.html
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\fonts\glyphicons-halflings-regular.html
+Content Type: text/html
+
+Uri: http://vicsanenergy.com/fonts/glyphicons-halflings-regulard41d.html?
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\fonts\glyphicons-halflings-regulard41d.html
+Content Type: text/html
+
+Uri: http://vicsanenergy.com/fonts/glyphicons-halflings-regular-2.html
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\fonts\glyphicons-halflings-regular-2.html
+Content Type: text/html
+
+Uri: http://vicsanenergy.com/fonts/glyphicons-halflings-regular-3.html
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\fonts\glyphicons-halflings-regular-3.html
+Content Type: text/html
+
+Uri: http://vicsanenergy.com/fonts/glyphicons-halflings-regular-4.html
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\fonts\glyphicons-halflings-regular-4.html
+Content Type: text/html
+
+Uri: http://vicsanenergy.com/images/gradient/g30.html
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\images\gradient\g30.html
+Content Type: text/html
+
+Uri: http://vicsanenergy.com/images/gradient/g40.html
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\images\gradient\g40.html
+Content Type: text/html
+
+Uri: http://vicsanenergy.com/assets/shadow2.html
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\assets\shadow2.html
+Content Type: text/html
+
+Uri: http://vicsanenergy.com/assets/shadow3.html
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\assets\shadow3.html
+Content Type: text/html
+
+Uri: http://vicsanenergy.com/assets/boxed_bgtile.html
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\assets\boxed_bgtile.html
+Content Type: text/html
+
+Uri: http://vicsanenergy.com/assets/navigdots_bgtile.html
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\assets\navigdots_bgtile.html
+Content Type: text/html
+
+Uri: http://vicsanenergy.com/assets/bullets.html
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\assets\bullets.html
+Content Type: text/html
+
+Uri: http://vicsanenergy.com/assets/bullets2.html
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\assets\bullets2.html
+Content Type: text/html
+
+Uri: http://vicsanenergy.com/assets/bullet_boxed.html
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\assets\bullet_boxed.html
+Content Type: text/html
+
+Uri: http://vicsanenergy.com/assets/navigdots.html
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\assets\navigdots.html
+Content Type: text/html
+
+Uri: http://vicsanenergy.com/images/prev.html
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\images\prev.html
+Content Type: text/html
+
+Uri: http://vicsanenergy.com/images/next.html
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\images\next.html
+Content Type: text/html
+
+Uri: http://vicsanenergy.com/assets/small_left.html
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\assets\small_left.html
+Content Type: text/html
+
+Uri: http://vicsanenergy.com/assets/small_right.html
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\assets\small_right.html
+Content Type: text/html
+
+Uri: http://vicsanenergy.com/assets/arrow_left.html
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\assets\arrow_left.html
+Content Type: text/html
+
+Uri: http://vicsanenergy.com/assets/arrow_right.html
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\assets\arrow_right.html
+Content Type: text/html
+
+Uri: http://vicsanenergy.com/assets/small_left_boxed.html
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\assets\small_left_boxed.html
+Content Type: text/html
+
+Uri: http://vicsanenergy.com/assets/small_right_boxed.html
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\assets\small_right_boxed.html
+Content Type: text/html
+
+Uri: http://vicsanenergy.com/assets/arrowleft.html
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\assets\arrowleft.html
+Content Type: text/html
+
+Uri: http://vicsanenergy.com/assets/arrowright.html
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\assets\arrowright.html
+Content Type: text/html
+
+Uri: http://vicsanenergy.com/assets/arrow_left2.html
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\assets\arrow_left2.html
+Content Type: text/html
+
+Uri: http://vicsanenergy.com/assets/arrow_right2.html
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\assets\arrow_right2.html
+Content Type: text/html
+
+Uri: http://vicsanenergy.com/assets/coloredbg.html
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\assets\coloredbg.html
+Content Type: text/html
+
+Uri: http://vicsanenergy.com/images/loader.gif
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\images\loader.gif
+Content Type: image/gif
+
+Uri: http://vicsanenergy.com/css/fonts/fontawesome-webfontba72.eot?v=4.0.3
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\css\fonts\fontawesome-webfontba72.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://vicsanenergy.com/css/fonts/fontawesome-webfontd41d.eot?
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\css\fonts\fontawesome-webfontd41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://vicsanenergy.com/css/fonts/fontawesome-webfontba72.woff?v=4.0.3
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\css\fonts\fontawesome-webfontba72.woff
+Content Type: application/x-font-woff
+
+Uri: http://vicsanenergy.com/css/fonts/fontawesome-webfontba72.ttf?v=4.0.3
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\css\fonts\fontawesome-webfontba72.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://vicsanenergy.com/css/fonts/fontawesome-webfontba72.svg?v=4.0.3
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\css\fonts\fontawesome-webfontba72.svg
+Content Type: image/svg+xml
+
+Uri: http://vicsanenergy.com/images/bx_loader.gif
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\images\bx_loader.gif
+Content Type: image/gif
+
+Uri: http://vicsanenergy.com/css/images/controls.html
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\css\images\controls.html
+Content Type: text/html
+
+Uri: http://vicsanenergy.com/css/fonts/helvetica.eot
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\css\fonts\helvetica.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://vicsanenergy.com/css/fonts/helveticad41d.eot?
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\css\fonts\helveticad41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://vicsanenergy.com/css/fonts/helvetica.woff
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\css\fonts\helvetica.woff
+Content Type: application/x-font-woff
+
+Uri: http://vicsanenergy.com/css/fonts/helvetica.ttf
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\css\fonts\helvetica.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://vicsanenergy.com/css/fonts/helvetica.svg
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\css\fonts\helvetica.svg
+Content Type: image/svg+xml
+
+Uri: http://vicsanenergy.com/css/fonts/HelveticaBd.eot
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\css\fonts\HelveticaBd.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://vicsanenergy.com/css/fonts/HelveticaBdd41d.eot?
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\css\fonts\HelveticaBdd41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://vicsanenergy.com/css/fonts/HelveticaBd.woff
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\css\fonts\HelveticaBd.woff
+Content Type: application/x-font-woff
+
+Uri: http://vicsanenergy.com/css/fonts/HelveticaBd.ttf
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\css\fonts\HelveticaBd.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://vicsanenergy.com/css/fonts/HelveticaBd.svg
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\css\fonts\HelveticaBd.svg
+Content Type: image/svg+xml
+
+Uri: http://vicsanenergy.com/css/fonts/HelveticaLt.eot
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\css\fonts\HelveticaLt.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://vicsanenergy.com/css/fonts/HelveticaLtd41d.eot?
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\css\fonts\HelveticaLtd41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://vicsanenergy.com/css/fonts/HelveticaLt.woff
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\css\fonts\HelveticaLt.woff
+Content Type: application/x-font-woff
+
+Uri: http://vicsanenergy.com/css/fonts/HelveticaLt.ttf
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\css\fonts\HelveticaLt.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://vicsanenergy.com/css/fonts/HelveticaLt.svg
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\css\fonts\HelveticaLt.svg
+Content Type: image/svg+xml
+
+Uri: http://vicsanenergy.com/css/fonts/big_noodle_titling-webfont.eot
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\css\fonts\big_noodle_titling-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://vicsanenergy.com/css/fonts/big_noodle_titling-webfontd41d.eot?
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\css\fonts\big_noodle_titling-webfontd41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://vicsanenergy.com/css/fonts/big_noodle_titling-webfont.woff
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\css\fonts\big_noodle_titling-webfont.woff
+Content Type: application/x-font-woff
+
+Uri: http://vicsanenergy.com/css/fonts/big_noodle_titling-webfont.ttf
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\css\fonts\big_noodle_titling-webfont.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://vicsanenergy.com/css/fonts/big_noodle_titling-webfont.svg
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\css\fonts\big_noodle_titling-webfont.svg
+Content Type: image/svg+xml
+
+Uri: http://vicsanenergy.com/upload/back.jpg
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\upload\back.jpg
+Content Type: image/jpeg
+
+Uri: http://vicsanenergy.com/images/pattern2.png
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\images\pattern2.png
+Content Type: image/png
+
+Uri: http://vicsanenergy.com/upload/back2.jpg
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\upload\back2.jpg
+Content Type: image/jpeg
+
+Uri: http://vicsanenergy.com/upload/back3.jpg
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\upload\back3.jpg
+Content Type: image/jpeg
+
+Uri: http://vicsanenergy.com/upload/back4.jpg
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\upload\back4.jpg
+Content Type: image/jpeg
+
+Uri: http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\ajax\libs\jquery\1.10.2\jquery.min.js
+Content Type: text/javascript
+
+Uri: http://notfound01.domainparkingserver.net/
+File Name: C:\Downloaded Web Sites\vicsanenergy.com\index-2.htm
+Content Type: text/html
+

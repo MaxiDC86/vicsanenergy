@@ -1,0 +1,87 @@
+<html>
+    <head>
+        <style type="text/css" media="screen">
+            html { color: #333; font-family: "Helvetica Neue", Arial, Helvetica, sans-serif; font-size: 13px; text-align: center; }
+            #container { margin: 0 auto; text-align: center; }
+        </style>
+
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+
+        <script type="text/javascript" language="JavaScript">
+            var param_name  = '';
+            var param_value = '';
+            var drid        = '';
+            var frame       = '';
+            domainname      = '';
+
+            google_afd_request = {
+                client:        'ca-dp-oversee_ncd',
+                domain_name:    domainname,
+                referrer:       document.referrer,
+                session_token: 'create',
+                drid:          '',
+                async:         true
+            };
+
+
+            function registrar_frameset(params) {
+                drid = params['drid'];
+
+                if (params['a_id']) {
+                    param_name = 'a_id';
+                }
+                else if (params['o_id']) {
+                    param_name = 'o_id';
+                }
+                param_value = params[param_name];
+                google_afd_request.drid = params['drid'];
+
+                var token_url = 'http://pagead2.googlesyndication.com/apps/domainpark/show_afd_ads.js';
+
+                $('head').append('<script type="text/javascript" language="JavaScript" ' +
+                               'src="' + token_url + '"></' + 'script>\n');
+            }
+
+
+            // this function is called by the js loaded from token_url
+            function google_afd_ad_request_done(response) {
+                var url = 'http://dsnextgen.com/'
+                        + '?domainname=' + domainname
+                        + '&drid=' + drid
+                        + (param_name ? ('&' + param_name + '=' + param_value) : '')
+                        + '&session_token=' + response.session_token;
+
+                $('#ad_frame').attr('name', domainname);
+                $('#ad_frame').attr('src',url);
+            }
+
+
+            jQuery(document).ready(function() {
+                registrar_frameset({a_id: '101686', drid: 'as-drid-2578124767373827'});
+            });
+        </script>
+    </head>
+
+    <body>
+        <div id="container">
+            <table style="border: 1px dashed rgb(204, 204, 204);" align="center" border="0" cellpadding="6" cellspacing="0" width="800">
+                <tr><td style="font-family: Arial,Helvetica,sans-serif; font-size: 12px;">
+                    <h1 style="margin:0px;">Page Not Found</h1>
+                    <p style="margin-top:0px;">The page you are looking for might
+                        have been removed, had its name changed, or is temporarily
+                        unavailable. Please try the following:
+                    </p>
+                    <ul>
+                        <li>If you typed the page address in the Address bar, make sure that it is spelled correctly.</li>
+                        <li>Click the Back button in your browser to try another link.</li>
+                        <li>Use a search engine like <a href="http://www.google.com">Google</a> to look for information on the Internet.</li>
+                    </ul>
+                </td> </tr>
+            </table>
+        </div>
+
+        <iframe id="ad_frame" frameborder="0" height="800" scrolling="no" width="100%"></iframe>
+    </body>
+
+</html>
+
