@@ -867,25 +867,6 @@ span.icon-stat i {
     width: 100%;
 }
 
-.hover-box {
-	position: absolute;
-	top: 7px;
-	left: 0px;
-	right: 8px;
-	bottom: 8px;
-	background: rgba(0,0,0,0.65) url('../images/back-pattern.png');
-	opacity: 0\0/;
-	visibility: hidden\0/;
-	transform: scale(0) rotate(360deg);
-	-webkit-transform: scale(0) rotate(360deg);
-	-moz-transform: scale(0) rotate(360deg);
-	-o-transform: scale(0) rotate(360deg);
-	transition: all 0.3s ease-in-out;
-	-moz-transition: all 0.3s ease-in-out;
-	-webkit-transition: all 0.3s ease-in-out;
-	-o-transition: all 0.3s ease-in-out;
-}
-
 .work-post:hover .hover-box {
     opacity: 0\1/;
     visibility: hidden\1/;
